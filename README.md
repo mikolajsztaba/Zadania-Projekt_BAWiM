@@ -1,6 +1,6 @@
 # Zadania-Projekt_BAWiM
 Treści zadań z aplikacji BWAPP
-
+-----
 # Zadania HTML INJECTION
 
 ## Zadanie 1 (metoda GET)
@@ -24,7 +24,7 @@ z przyciskiem do jego odebrania
 
 - Spróbuj wkleić dowolny obrazek
 na bloga
-
+-----
 # Zadania XSS 
 
 ## Zadanie 1
@@ -44,7 +44,7 @@ na bloga
 ## Zadanie 4
 - Wybierz 	XSS - Stored( Blog ) na poziomie medium. Zablokuj dostęp do bloga dla każdego użytkownika. 
 - Podpowiedź: Użyj funkcji alert().
-
+-----
 # Zadanie dodatkowe
 - Różne poziomy: https://xss-game.appspot.com/
 - Port Swigger -> laboratoria odnośnie XSS np: 
