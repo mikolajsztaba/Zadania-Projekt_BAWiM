@@ -1,6 +1,8 @@
 # Zadania-Projekt_BAWiM
 Treści zadań z aplikacji BWAPP
+
 -----
+
 # Zadania HTML INJECTION
 
 ## Zadanie 1 (metoda GET)
