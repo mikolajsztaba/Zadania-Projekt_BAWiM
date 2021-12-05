@@ -50,8 +50,3 @@ na bloga
 -----
 # Zadanie dodatkowe
 - Różne poziomy: https://xss-game.appspot.com/
-- Port Swigger -> laboratoria odnośnie XSS np: 
-  - https://portswigger.net/web-security/cross-site-scripting/stored/lab-html-context-nothing-encoded
-  - https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
-  - https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-innerhtml-sink
-  - https://portswigger.net/web-security/cross-site-scripting/contexts/lab-html-context-with-most-tags-and-attributes-blocked
