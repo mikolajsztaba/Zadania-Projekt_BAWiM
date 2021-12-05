@@ -1,5 +1,6 @@
-# Zadania-Projekt_BAWiM
+# bWAPP - aplikacja do nauki etycznego hackowania
 Treści zadań z aplikacji BWAPP
+> **Mikołaj Sztaba**, **Kacper Zemła**
 
 -----
 
