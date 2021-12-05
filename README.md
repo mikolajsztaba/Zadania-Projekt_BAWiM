@@ -3,6 +3,11 @@ Treści zadań z aplikacji BWAPP
 > **Mikołaj Sztaba**, **Kacper Zemła**
 
 -----
+# Przygotowanie środowiska do zadań
+
+
+
+-----
 
 # Zadania HTML INJECTION
 
