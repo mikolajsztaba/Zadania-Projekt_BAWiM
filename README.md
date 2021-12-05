@@ -5,7 +5,7 @@ Treści zadań z aplikacji BWAPP
 -----
 # Przygotowanie środowiska do zadań
 - Pobranie maszyny wirtualnej bee-box ze strony http://www.itsecgames.com/download.htm
-- Wyłączenie trybu offline w Firefoxie już w VM
+- Wyłączenie trybu offline w Firefoxie już w VM > W przeglądarce file > Work offline ma być odznaczone
 - Problemy z klawiaturą: system>preferences>keyboard> layouts > add > Usa > Zaznaczamy tą klawiature USA i usuwamy Belgium
 
 
